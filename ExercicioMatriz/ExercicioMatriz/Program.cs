@@ -38,6 +38,7 @@ namespace ExercicioMatriz
                 }
             }
             Console.WriteLine("Números negativos: " + count);
+
         }
     }
 }
