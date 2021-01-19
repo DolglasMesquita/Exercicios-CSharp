@@ -46,6 +46,7 @@ namespace ExercicioMatriz02
                         {
                             Console.WriteLine("Baixo: " + mat[i + 1, j]);
                         }
+
                     }
                 }
             }
